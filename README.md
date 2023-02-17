@@ -18,7 +18,7 @@ Started working at RBC five years ago and looking to expand within our team.
 
 ### Table Of Contents ### 
 
-[code](code)
-[data](data)
-[references](references)
-[images](images)
+- [code](code)
+- [data](data)
+- [references](references)
+- [images](images)
